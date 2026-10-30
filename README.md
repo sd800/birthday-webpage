@@ -47,22 +47,12 @@ The bundled stroke font animates supported characters, including English letters
 
 ## Share the celebration
 
-Publish `index.html`, `content.js`, `assets/`, `licenses/`, `LICENSE`, `NOTICE`, and `VERSION` to a static hosting service, preserving their relative paths. There is no server-side application or build command to configure. Share the resulting link for desktop and mobile visitors alike.
-
-## License
-
-This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
-
-This project is freely shared for personal and noncommercial use. You may use, modify, and redistribute it for noncommercial purposes, subject to the license terms. Redistributions must include the license and [copyright notice](NOTICE).
-
-**Commercial use is not permitted.** This includes, but is not limited to, selling the project or modified versions, offering paid customization or setup services, and monetizing the project through advertisements or paid hosting.
-
-No commercial licenses are offered.
-
-Please respect the original intention of this project: **to spread joy and happiness, not to generate profit.**
-
-*This summary is for convenience only; the full text in the `LICENSE` file governs.*
+Publish `index.html`, `content.js`, `assets/`, `licenses/`, `LICENSE`, and `VERSION` to a static hosting service, preserving their relative paths. There is no server-side application or build command to configure. Share the resulting link for desktop and mobile visitors alike.
 
 ## Credits
 
 The cake and starfield are rendered with Canvas; the handwriting uses SVG stroke paths from EMS Allure, derived from Allura. Font attribution and the SIL Open Font License are included in [licenses/EMS-Allure.txt](licenses/EMS-Allure.txt).
+
+## License
+
+[MIT License](LICENSE)

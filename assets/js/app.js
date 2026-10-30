@@ -1,6 +1,6 @@
 /*
-Required Notice: © 2026 Songming.org
-SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+© 2026 Songming.org
+SPDX-License-Identifier: MIT
 */
 
 (() => {

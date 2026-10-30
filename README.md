@@ -51,7 +51,7 @@ Publish `index.html`, `content.js`, `assets/`, `licenses/`, `LICENSE`, `NOTICE`,
 
 ## License
 
-This project is licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)**.
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
 
 This project is freely shared for personal and noncommercial use. You may use, modify, and redistribute it for noncommercial purposes, subject to the license terms. Redistributions must include the license and [copyright notice](NOTICE).
 

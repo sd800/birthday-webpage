@@ -51,7 +51,7 @@ Birthday Webpage 是一个可直接部署的生日祝福网页：缓缓转动的
 
 ## 许可证
 
-本项目采用 **[PolyForm Noncommercial License 1.0.0](LICENSE)**（PolyForm 非商业许可证 1.0.0）授权。
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)（PolyForm 非商业许可证 1.0.0）授权。
 
 本项目免费提供给所有人用于个人及其他非商业用途。在遵守许可证条款的前提下，你可以自由使用、修改和重新分发本项目。重新分发时须附上本许可证及[版权声明](NOTICE)。
 
@@ -65,4 +65,4 @@ Birthday Webpage 是一个可直接部署的生日祝福网页：缓缓转动的
 
 ## 致谢
 
-蛋糕与星空由 Canvas 绘制，手写效果使用源自 Allura 的 EMS Allure 字体 SVG 笔画。字体作者信息与 SIL Open Font License 收录于 [licenses/EMS-Allure.txt](licenses/EMS-Allure.txt)。
+蛋糕与星空由 Canvas 绘制。手写效果使用源自 Allura 的 EMS Allure 字体 SVG 笔画；字体作者信息与 SIL Open Font License 收录于 [licenses/EMS-Allure.txt](licenses/EMS-Allure.txt)。

@@ -1,6 +1,5 @@
 /*
 © 2026 Songming.org
-SPDX-License-Identifier: MIT
 */
 
 (() => {

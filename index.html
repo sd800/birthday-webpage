@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <meta name="author" content="Songming.org">
+  <meta name="description" content="A little universe, just for you. Happy Birthday.">
+  <title>Happy Birthday My Babe!</title>
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="content.js" defer></script>
+  <script src="assets/js/handwriting-font.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</head>
+<body>
+  <main class="story">
+    <section class="hero" aria-label="生日祝福">
+      <div class="composition">
+        <div class="cake">
+          <canvas id="universe" role="img" aria-label="缓缓旋转的星空生日蛋糕，金色蜡烛与环绕的星光"></canvas>
+          <button class="candle-touch" type="button" aria-label="许一个愿，让星光亮起"></button>
+        </div>
+        <div class="wishes">
+          <h1><span class="sr-only" id="greeting-text">Happy Birthday My Babe!</span><svg class="handwriting greeting" aria-hidden="true"></svg></h1>
+          <p class="sr-only" id="from-text">From: your love</p>
+          <svg class="handwriting from" aria-hidden="true"></svg>
+          <div class="extra-wishes"></div>
+        </div>
+      </div>
+      <a class="scroll-cue" href="#letter" aria-label="读这封给你的信"><svg viewBox="0 0 20 30" fill="none" aria-hidden="true"><path d="M10 3v19m-5-5 5 5 5-5" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+    </section>
+    <section class="letter-section" id="letter" aria-label="给你的生日信">
+      <article class="paper">
+        <p class="sr-only" id="salutation-text"></p>
+        <svg class="handwriting letter-salutation" aria-hidden="true"></svg>
+        <div class="letter-body"></div>
+        <footer class="letter-footer reveal-line">
+          <div><p class="closing"></p><span class="sr-only" id="signature-text"></span><svg class="handwriting signature" aria-hidden="true"></svg></div>
+          <div class="seal" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 20S3 14 3 8.5C3 3 10 3 12 8c2-5 9-5 9 .5C21 14 12 20 12 20Z"/></svg></div>
+        </footer>
+      </article>
+    </section>
+  </main>
+
+</body>
+</html>
